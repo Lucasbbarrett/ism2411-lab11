@@ -1,3 +1,13 @@
+# Reflection 1
+# I'd use .get() for a customer's email because someone can buy something without
+# giving an email address. I'd use brackets for a required field like a sale amount
+# so a missing amount gets flagged before I report the wrong total.
+#
+# Reflection 2
+# This reminds me of an Excel PivotTable with region in Rows and the sum of sales
+# in Values. With Python, I can read a large sales file one row at a time and keep
+# only a running total for each region in memory.
+
 # Exercise 1
 customer = {
     "name": "Alice",
